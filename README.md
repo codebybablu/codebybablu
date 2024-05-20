@@ -2,7 +2,7 @@
 
  - 🌱 I'm currently learning and exploring various technologies, always eager to expand my skill set.
 
- - 💼 I work on a variety of projects, from web development to machine learning, constantly seeking new challenges and opportunities for growth.
+ - 💼 I work on a variety of projects, from web development, constantly seeking new challenges and opportunities for growth.
 
  - 🚀 My goal is to contribute to open source projects and collaborate with other developers to create impactful software solutions.
 
