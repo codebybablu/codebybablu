@@ -6,7 +6,7 @@
 
  - 🚀 My goal is to contribute to open source projects and collaborate with other developers to create impactful software solutions.
 
- - 📫 You can reach me via email at codebybablu@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/codebybablu).
+ - 📫 You can reach me via email at bablu.mailaxy@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/codebybablu).
 
  - ⚡ Fun fact: When I'm not coding, you can find me hiking in the mountains or experimenting in the kitchen with new recipes.
 
